@@ -1,1 +1,1 @@
-Using LOgistic Regression to classify.
+Using Logistic Regression to classify.
